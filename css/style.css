@@ -49,3 +49,15 @@ hr {
 .emails.list {
             
 }
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    background-color: grey;
+}
+
+.emails-tet {
+            background-color: white;
+}
