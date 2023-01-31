@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/brown-wooden-flooring_53876-90802.jpg?w=1380&t=st=1675165162~exp=1675165762~hmac=56457a094ae2bed68f33ffa10f961aaf4654bda80b71eac99f774bf0c895c1bf);
+}
+
+.header {
+    
+}
+
+.header-logo {
+    vertical-align: middle;
+}
+
+.header-title {
+    vertical-align: middle;
+}
